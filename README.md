@@ -1,0 +1,3 @@
+- Hi, I’m @TotallyNotAlien aka Amel
+- I’m interested in programming and game developpement
+- I’m currently learning python
